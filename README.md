@@ -19,6 +19,8 @@
       <br>　- 일시: 11월 29일, 09:30 ~ 11:00
       <br>　- 참석자 : 리드멘토 이외 품질팀원
 
-4. 실행 결과
-
+4. 결과
+  <br>○ mariaDB에 저장된 데이터
+![데이터](https://user-images.githubusercontent.com/49810634/143294163-8cdc521a-33a6-4bd4-93a6-10a15a061800.PNG)
+  <br>○ 구동한 결과
 ![1주차과제결과](https://user-images.githubusercontent.com/49810634/143293697-3434d35f-9453-421a-9231-302b6c530e50.PNG)
