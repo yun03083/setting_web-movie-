@@ -1,5 +1,5 @@
 # setting_web-movie-
-🎥 setting(java, eclipse, tomcat, spring, mariaDB)
+🎥 setting(java, eclipse, tomcat, spring, mariaDB 설치 및 셋팅)
 
 1. 영화데이터 관리 운영
   <br>○ 영화 데이터 편성
