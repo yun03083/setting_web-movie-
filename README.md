@@ -2,16 +2,16 @@
 🎥 setting(java, eclipse, tomcat, spring, mariaDB)
 
 1. 영화데이터 관리 운영
-  ○ 영화 데이터 편성
-      - 데이터 생성 > 영화(영화 ID, 영화 이름, 감독, 장르)
-      - 스프링, MyBatis와 연동해서 데이터 조회 가능
+  <br>○ 영화 데이터 편성
+      <br>- 데이터 생성 > 영화(영화 ID, 영화 이름, 감독, 장르)
+      <br>- 스프링, MyBatis와 연동해서 데이터 조회 가능
 
 2. 개발환경 셋팅
-○ JDK 11.0.13 설치
-○ 이클립스 2020/09 설치 및 JRE, 컴파일러 환경 셋팅
-○ 아파치 톰캣 9.0.55 설치 및 Server Runtime Environment에 추가
-○  Spring Tools 3 Add-On for Spring Tools 4 3.9.19.SNAPSHOT 설치(SNAPSHOT이므로 추후 Update 필요)
-○ MariaDB 설치 (Mysql Workbench 활용)
+<br>○ JDK 11.0.13 설치
+<br>○ 이클립스 2020/09 설치 및 JRE, 컴파일러 환경 셋팅
+<br>○ 아파치 톰캣 9.0.55 설치 및 Server Runtime Environment에 추가
+<br>○  Spring Tools 3 Add-On for Spring Tools 4 3.9.19.SNAPSHOT 설치(SNAPSHOT이므로 추후 Update 필요)
+<br>○ MariaDB 설치 (Mysql Workbench 활용)
 
 
 3. 기타
